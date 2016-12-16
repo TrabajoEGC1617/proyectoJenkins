@@ -153,3 +153,7 @@
 2016-12-16 13:52:20,260 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2016-12-16 13:52:26,160 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins
 2016-12-16 13:52:26,160 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-12-16 13:54:55,903 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:54:55,905 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\main\resources
+2016-12-16 13:54:55,907 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:54:55,908 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\test\resources
