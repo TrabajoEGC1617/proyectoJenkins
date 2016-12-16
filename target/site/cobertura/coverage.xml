@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+
+<coverage line-rate="0.0" branch-rate="1.0" lines-covered="0" lines-valid="7" branches-covered="0" branches-valid="0" complexity="1.0" version="1.9.4.1" timestamp="1481892766750">
+	<sources>
+		<source>C:/Users/rafae/Desktop/US/Curso 16-17/EGC/jenkins/proyectoJenkins/proyectoJenkins/target/generated-sources/annotations</source>
+		<source>C:/Users/rafae/Desktop/US/Curso 16-17/EGC/jenkins/proyectoJenkins/proyectoJenkins/src</source>
+		<source>--source</source>
+	</sources>
+	<packages>
+		<package name="java" line-rate="0.0" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="java.suma" filename="java/suma.java" line-rate="0.0" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="3" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="suma" signature="(DD)Ljava/lang/Double;" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="6" hits="0" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="3" hits="0" branch="false"/>
+						<line number="6" hits="0" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+		<package name="test" line-rate="0.0" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="test.sumaTest" filename="test/sumaTest.java" line-rate="0.0" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="7" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="testSuma" signature="()V" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="11" hits="0" branch="false"/>
+								<line number="12" hits="0" branch="false"/>
+								<line number="13" hits="0" branch="false"/>
+								<line number="14" hits="0" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="7" hits="0" branch="false"/>
+						<line number="11" hits="0" branch="false"/>
+						<line number="12" hits="0" branch="false"/>
+						<line number="13" hits="0" branch="false"/>
+						<line number="14" hits="0" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
