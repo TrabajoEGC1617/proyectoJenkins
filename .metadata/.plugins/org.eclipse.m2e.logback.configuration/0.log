@@ -94,3 +94,62 @@
 2016-12-16 13:07:11,789 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\main\resources
 2016-12-16 13:07:11,791 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-12-16 13:07:11,792 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\test\resources
+2016-12-16 13:10:43,504 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-16 13:10:44,007 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: proyectoJenkins:proyectoJenkins:0.0.1-SNAPSHOT @ C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\pom.xml.
+2016-12-16 13:10:44,200 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyectoJenkins/src
+2016-12-16 13:10:44,200 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /proyectoJenkins/src/test/java because it overlaps with /proyectoJenkins/src
+2016-12-16 13:10:44,260 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-16 13:10:44,437 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:10:44,439 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\main\resources
+2016-12-16 13:10:44,441 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:10:44,443 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\test\resources
+2016-12-16 13:47:04,867 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/cobertura-maven-plugin/2.5.1/cobertura-maven-plugin-2.5.1.jar
+2016-12-16 13:47:05,083 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/cobertura-maven-plugin/2.5.1/cobertura-maven-plugin-2.5.1.jar
+2016-12-16 13:47:05,616 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: proyectoJenkins:proyectoJenkins:0.0.1-SNAPSHOT @ C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\pom.xml.
+2016-12-16 13:47:05,845 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:47:05,846 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\main\resources
+2016-12-16 13:47:05,848 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:47:05,849 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\test\resources
+2016-12-16 13:47:05,941 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/cobertura-maven-plugin/2.5.1/cobertura-maven-plugin-2.5.1.pom
+2016-12-16 13:47:06,093 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/cobertura-maven-plugin/2.5.1/cobertura-maven-plugin-2.5.1.pom
+2016-12-16 13:47:06,164 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/28/mojo-parent-28.pom
+2016-12-16 13:47:06,243 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/28/mojo-parent-28.pom
+2016-12-16 13:47:06,339 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2016-12-16 13:47:06,419 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2016-12-16 13:47:10,742 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-16 13:47:11,150 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: proyectoJenkins:proyectoJenkins:0.0.1-SNAPSHOT @ C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\pom.xml.
+2016-12-16 13:47:11,348 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyectoJenkins/src
+2016-12-16 13:47:11,349 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /proyectoJenkins/src/test/java because it overlaps with /proyectoJenkins/src
+2016-12-16 13:47:11,402 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-16 13:47:11,558 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:47:11,559 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\main\resources
+2016-12-16 13:47:11,561 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:47:11,562 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\test\resources
+2016-12-16 13:48:31,991 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-12-16 13:48:39,193 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins
+2016-12-16 13:48:39,194 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -Dmaven.test.skip=true -DskipTests clean install
+2016-12-16 13:48:58,836 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: proyectoJenkins:proyectoJenkins:0.0.1-SNAPSHOT @ C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\pom.xml.
+2016-12-16 13:48:59,029 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:48:59,030 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\main\resources
+2016-12-16 13:48:59,031 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:48:59,031 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\test\resources
+2016-12-16 13:49:31,768 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: proyectoJenkins:proyectoJenkins:0.0.1-SNAPSHOT @ C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\pom.xml.
+2016-12-16 13:49:32,153 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:49:32,153 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\main\resources
+2016-12-16 13:49:32,154 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:49:32,155 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\test\resources
+2016-12-16 13:52:02,744 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-12-16 13:52:02,792 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins
+2016-12-16 13:52:02,792 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -Dmaven.test.skip=true -DskipTests clean install
+2016-12-16 13:52:13,369 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-16 13:52:13,752 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: proyectoJenkins:proyectoJenkins:0.0.1-SNAPSHOT @ C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\pom.xml.
+2016-12-16 13:52:14,165 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyectoJenkins/src
+2016-12-16 13:52:14,166 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /proyectoJenkins/src/test/java because it overlaps with /proyectoJenkins/src
+2016-12-16 13:52:14,202 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-16 13:52:14,379 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:52:14,380 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\main\resources
+2016-12-16 13:52:14,382 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-16 13:52:14,383 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins\src\test\resources
+2016-12-16 13:52:20,260 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-12-16 13:52:26,160 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rafae\Desktop\US\Curso 16-17\EGC\jenkins\proyectoJenkins\proyectoJenkins
+2016-12-16 13:52:26,160 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
